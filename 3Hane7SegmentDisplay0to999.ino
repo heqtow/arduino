@@ -1,3 +1,5 @@
+// https://drive.google.com/file/d/1SotUGC12nvj3S9p5-qBA4g5Ln1BjYgE0/view?usp=drive_link
+
 // Segment pinleri: a b c d e f g
 const byte SEG[7] = {2, 3, 4, 5, 6, 7, 8};
 // Hane pinleri: solda (yüzler), orta (onlar), sağda (birler)
