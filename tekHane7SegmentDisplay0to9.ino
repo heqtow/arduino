@@ -1,3 +1,5 @@
+// https://drive.google.com/file/d/1UTS7FkCl3fkh_deA57VMl1Dl5qRNVuwU/view?usp=drive_link
+
 // Sıra: a b c d e f g
 // Arduino pinleri: D2 D3 D4 D5 D6 D7 D8
 const byte SEG[7] = {2, 3, 4, 5, 6, 7, 8};
